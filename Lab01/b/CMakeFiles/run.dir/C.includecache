@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dragstark/THCTD.20194608.DinhVietLong/Lab01/lab01.c
+stdio.h
+-
+string.h
+-
+stdbool.h
+-
+stdlib.h
+-
+
