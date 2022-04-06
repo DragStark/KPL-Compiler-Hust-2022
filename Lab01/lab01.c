@@ -59,7 +59,7 @@ void appendList(elementtype data,dblist **root,dblist **cur,dblist **tail){
 void freeNode(dblist **root){
 	dblist *to_free;
 	for(to_free=*root;to_free!=NULL;to_free=*root){
-    *root=to_free->next;
+    *root=to_free->next;d
     free(to_free);
   }
 }
