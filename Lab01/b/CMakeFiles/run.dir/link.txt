@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/run.dir/lab01.c.o  -o run 

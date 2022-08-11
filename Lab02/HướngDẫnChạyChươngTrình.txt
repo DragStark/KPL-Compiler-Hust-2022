@@ -1,4 +1,0 @@
-copy file mytest.sh từ trong thư mục test sang thư mục incomplete
-chạy lênh make
-chạy lệnh ./mytest.sh
-kiểm tra sự khác nhau

@@ -1,0 +1,7 @@
+program test;
+var n,result: integer;
+    i:integer;     
+Begin
+    n := 2**3;
+    call WriteI(n);
+End.

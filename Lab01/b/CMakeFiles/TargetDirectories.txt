@@ -1,3 +1,0 @@
-/home/dragstark/THCTD.20194608.DinhVietLong/Lab01/b/CMakeFiles/rebuild_cache.dir
-/home/dragstark/THCTD.20194608.DinhVietLong/Lab01/b/CMakeFiles/edit_cache.dir
-/home/dragstark/THCTD.20194608.DinhVietLong/Lab01/b/CMakeFiles/run.dir
