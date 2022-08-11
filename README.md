@@ -9,5 +9,6 @@
     * Bài 4: Thực hiện pha phân tích ngữ nghĩa  -   Symtab Analys
     * Bài 5: Thực hiện pha sinh mã (trung gian) -   Code gen
     * Bài 6: Thực hiện pha sinh mã (đích) dựa trên mô phỏng máy ảo  -   Code gen
+    * final: Hoàn thành toàn bộ và tổng hợp thành trình biên dịch 
 
 ## trong từng bài sẽ có hướng dẫn chi tiết
